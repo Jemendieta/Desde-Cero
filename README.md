@@ -4,7 +4,7 @@ En este curso trabajaremos desde los elementos más básicos de la programación
 
 ---
 
-![Curso de Python para principiantes](img/portada.jpg)
+![Curso dE programación desde cero](img/portada.jpg)
 
 ---
 
